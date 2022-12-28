@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaditya55
 - 👀 I’m interested in Java , DSA , Web Development
-- 🌱 I’m currently learning Web Java
+- 🌱 I’m currently learning Advance Java
 - 💞️ I’m looking to collaborate on DevOps
 
 
